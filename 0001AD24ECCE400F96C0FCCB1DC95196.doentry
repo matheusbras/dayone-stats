@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creation Date</key>
+	<date>2014-08-21T22:11:54Z</date>
+	<key>Creator</key>
+	<dict>
+		<key>Device Agent</key>
+		<string>Macintosh/MacBookPro10,2</string>
+		<key>Generation Date</key>
+		<date>2014-08-21T22:11:54Z</date>
+		<key>Host Name</key>
+		<string>de-witt</string>
+		<key>OS Agent</key>
+		<string>MacOS/10.9.4</string>
+		<key>Software Agent</key>
+		<string>Day One Mac/1.9.6</string>
+	</dict>
+	<key>Entry Text</key>
+	<string>Eu tenho muitos problemas, hábitos ruins, e acho que até vícios. O problema que eu tenho hoje no trabalho está me sufocando. Tomara que isso não seja nada parecido com depressão. Alguns sintomas parecem, mas tomara que não seja. Eu preciso achar uma saída pra isso. Semana que vem pode ser minha redenção.
+
+Se tudo correr bem, eu vou sair desse projeto ridículo e voltar a vida normal usando Ruby. Pode ser que me dê um fôlego adicional pra continuar mais um pouco, já que o lance com a galera vai miar, provavelmente.
+
+O pagamento do Lotebox não caiu. Ainda não comecei a me preocupar com isso, mas vamos ver… Eu realmente preciso dessa grana.</string>
+	<key>Location</key>
+	<dict>
+		<key>Administrative Area</key>
+		<string>RJ</string>
+		<key>Country</key>
+		<string>Brazil</string>
+		<key>Latitude</key>
+		<real>-22.726831833039956</real>
+		<key>Locality</key>
+		<string>Nova Iguaçu</string>
+		<key>Longitude</key>
+		<real>-43.465862867278894</real>
+		<key>Place Name</key>
+		<string>Rua Ana Lúcia, 2–130</string>
+	</dict>
+	<key>Starred</key>
+	<false/>
+	<key>Tags</key>
+	<array/>
+	<key>Time Zone</key>
+	<string>America/Sao_Paulo</string>
+	<key>UUID</key>
+	<string>0001AD24ECCE400F96C0FCCB1DC95196</string>
+	<key>Weather</key>
+	<dict>
+		<key>Celsius</key>
+		<string>25</string>
+		<key>Description</key>
+		<string>Mostly Clear</string>
+		<key>Fahrenheit</key>
+		<string>77</string>
+		<key>IconName</key>
+		<string>cloudyn.png</string>
+		<key>Pressure MB</key>
+		<integer>1018</integer>
+		<key>Relative Humidity</key>
+		<integer>57</integer>
+		<key>Service</key>
+		<string>HAMweather</string>
+		<key>Sunrise Date</key>
+		<date>2014-08-21T09:12:52Z</date>
+		<key>Sunset Date</key>
+		<date>2014-08-21T20:40:00Z</date>
+		<key>Visibility KM</key>
+		<real>11.265408000000001</real>
+		<key>Wind Bearing</key>
+		<integer>100</integer>
+		<key>Wind Chill Celsius</key>
+		<integer>25</integer>
+		<key>Wind Speed KPH</key>
+		<integer>7</integer>
+	</dict>
+</dict>
+</plist>
